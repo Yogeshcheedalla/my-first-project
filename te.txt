@@ -1,0 +1,11 @@
+har
+har
+git config --global user.name "githubusername"
+git config --global user.name "mail"
+git init
+git status
+git add.(all files in working directory)
+for adding specific file
+git commit-m "message"
+to check log of all commits 
+git log--oneline
