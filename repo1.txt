@@ -8,3 +8,5 @@ for adding specific file git add <filename>
 git commit-m "message"
 to check log of all commits 
 git log--oneline
+
+bxSjx
