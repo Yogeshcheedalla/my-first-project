@@ -9,4 +9,6 @@ git commit-m "message"
 to check log of all commits 
 git log--oneline
 
-bxSjx
+bxSjx 
+dnjed
+jfe
