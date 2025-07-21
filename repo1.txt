@@ -9,6 +9,11 @@ git commit-m "message"
 to check log of all commits 
 git log--oneline
 
-bxSjx 
-dnjed
-jfe
+creating branch git branch branchnamespecific branch to add files
+git checkout branchname
+
+git add<name>
+git commit -m "message"
+to create sub branches
+git merge branchname
+
